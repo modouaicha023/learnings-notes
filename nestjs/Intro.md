@@ -68,7 +68,7 @@
 
 ### Module
 
-- Modules help organize the application into cohesive blocks of functionality. They encapsulate related components, such as controllers, services, and providers. 
+- Modules help organize the application into cohesive blocks of functionality. They encapsulate related components, such as controllers, services, and providers.
 
 ### Controllers
 

@@ -1,6 +1,6 @@
 # Array
 - a continuous memory space
-- there are fiçxed size; continuous memory chunks
+- there are fixed size; continuous memory chunks
 - that means you cannot grow it
 - there is no insertAt, push or pop. ( doesn't mean we can't write theose though)
   - a array have to be a fixed size, we can not gropw it ( we can reallocate it,   by creating a new array with a biggest size and take the old one to write it to the new one 🙆🏾‍♂️ )

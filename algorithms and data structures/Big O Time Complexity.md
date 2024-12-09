@@ -1,12 +1,12 @@
 # Big O Time Complexity
 
 - Big O is a way to categorize your algorithms time and memory requirements based on input
-  Like when your input grow , your algorith will grow linearily.
+  Like when your input grow , your algorithm will grow linearily.
 
 - we use it to help make decisions about what DSA to use
   know how it will perform can help to have the best program .
 
-Big O : "As your input grows, how fast does computation or memroy grow"
+Big O : "As your input grows, how fast does computation or memory grow"
 notes: growth is with respect to the input
 
 ```typescript
@@ -102,4 +102,4 @@ function sum_char_codes(n: string): number {
 - O(n log n)
   - Binary search trees 
 
-- O(sqrt(n)) {to be search !!!!!!!!}
+- O(sqrt(n)) {to be search by me for more infos !}
